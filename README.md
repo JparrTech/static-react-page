@@ -8,5 +8,7 @@ In this project I strengthened my React development skills, and learned the foll
 * Using boarder-box instead of the default content-box model to make layouts easier to work with.
 * Padding - When listing the padding on a selected element, the first pixel value is for the top and bottom, and the second for the left and right sides of the container. 
 * Using the list item psuedo-selector marker to change the color of bullet points. 
+* Adding an image to the background using the CSS background image attribute. 
 
-
+The majority of what I exercised in this project was CSS skills, paired with some react components. Now that I have a pretty good understanding of CSS,
+my future projects will be more focused on leveling my React knowledge. 
