@@ -3,7 +3,7 @@ export default function Navbar() {
         <header>
             <nav>
                 <img src="src/assets/react.svg" alt="reactlogo" />
-                <span>React facts</span>
+                <span>ReactFacts - John Parr's React Journey</span>
             </nav>
         </header>
     )

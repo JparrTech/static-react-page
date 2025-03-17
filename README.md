@@ -7,5 +7,6 @@ In this project I strengthened my React development skills, and learned the foll
 * How to use CSS Selectors the right way: Body selector, Asterik (universal) Selector, and selecting children elements.
 * Using boarder-box instead of the default content-box model to make layouts easier to work with.
 * Padding - When listing the padding on a selected element, the first pixel value is for the top and bottom, and the second for the left and right sides of the container. 
+* Using the list item psuedo-selector marker to change the color of bullet points. 
 
 
