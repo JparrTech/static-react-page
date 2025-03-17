@@ -12,3 +12,5 @@ In this project I strengthened my React development skills, and learned the foll
 
 The majority of what I exercised in this project was CSS skills, paired with some react components. Now that I have a pretty good understanding of CSS,
 my future projects will be more focused on leveling my React knowledge. 
+
+![image](https://github.com/user-attachments/assets/71d0540d-76b9-4589-bdc8-a26eba3cd5e4)
